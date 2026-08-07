@@ -50,23 +50,5 @@ What about **customization** 🎨 ?
 
 ## Credits & Acknowledgements 🎉
 
-### Application Framework:
- - Language - Python ([Website](https://www.python.org/))
- - UI - Custom Tkinter ([Website](https://customtkinter.tomschimansky.com/))
-### Contributors:
- - Feature Ideas - @ZappedZaid ([@ZappedZaid5](https://www.youtube.com/@ZappedZaid5) - YouTube / [@Zapped-Zaid5](https://github.com/Zapped-Zaid5) - GitHub)
+ - Feature Suggestions - @ZappedZaid ([@ZappedZaid5](https://www.youtube.com/@ZappedZaid5) - YouTube / [@Zapped-Zaid5](https://github.com/Zapped-Zaid5) - GitHub)
  - Bug reports & Suggestions - AnonymousYA (Identity Hidden)
-### APIs & Libraries Used:
- - Custom Tkinter (Tom Schimansky / [Website](https://customtkinter.tomschimansky.com/)) - Main UI
- - Webbrowser (Python) - Feedback Function
- - Requests (Kenneth Reitz - [Email](me@kennethreitz.org) / [PyPi](https://pypi.org/project/requests/)) - Internet Connection Check & Update Check system.
- - JSON (JSON - [Website](https://www.json.org)) - Data management.
- - zxcvbn (Dropbox - [GitHub](https://github.com/dropbox/zxcvbn)) - Password Strength Check system.
- - Pickle (Python) - Data management.
- - BeautifulSoup4 (Leonard Richardson - [Email](leonardr@segfault.org) / [PyPi](https://pypi.org/project/beautifulsoup4/)) - Versioning System.
- - Cryptography (Python Cryptographic Authority - [PyPi Profile](https://pypi.org/org/pyca) / [PyPi](https://pypi.org/project/cryptography)) - Encryption System.
- - Google Spreadsheets Python API (Anton Burnashev - [Email](fuss.here@gmail.com) / [PyPi](https://pypi.org/project/gspread)) - Cloud DB Management.
- - Google API Python Client (Google APIs - [GitHub](https://github.com/googleapis/google-api-python-client)) - Cloud DB Management.
- - Geocoder (Dennis Carriere - [Email](carriere.denis@gmail.com) / [PyPi](https://pypi.org/project/geocoder)) - Verification Email Location Tagger.
-
-
