@@ -5,7 +5,7 @@
 
 # AI Password Manager 🗝️  -  [Website](https://AI-Password-Manager.github.io/)
 
-## Status 🪄: Latest Stable Release - APM v2.3
+## Status 🪄: Revamp coming soon... AI Password Manager will soon be Glace Password Manager!
 
 ![1](https://github.com/user-attachments/assets/aa530b07-7476-45a1-b99c-8b6c74313483)
 
