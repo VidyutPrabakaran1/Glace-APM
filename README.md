@@ -1,6 +1,6 @@
 <meta name="google-site-verification" content="ljzq7r3BKLqCyDz9qpN8K7IIzU3QkEciv7zxI4xIfMk" />
 
-![AI Password Manager Poster](https://github.com/user-attachments/assets/219fed00-f3f1-4a66-9cbc-c4ea146bd277)
+<img width="1920" height="1080" alt="apm_splash" src="https://github.com/user-attachments/assets/ed4e6a13-9d58-4afd-8e29-e1068ffde541" />
 
 
 # AI Password Manager 🗝️  -  [Website](https://AI-Password-Manager.github.io/)
