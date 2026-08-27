@@ -7,7 +7,7 @@
 
 ## Status 🪄: Revamp coming soon... AI Password Manager will be rebranded to Glace APM.
 
-![1](https://github.com/user-attachments/assets/aa530b07-7476-45a1-b99c-8b6c74313483)
+<img width="1920" height="1080" alt="111e" src="https://github.com/user-attachments/assets/afa70799-4a10-4e8e-8535-ebe0d905648c" />
 
 This is an **Glace APM**, Here's breakdown of it's **features** ✨ : 
 
@@ -24,14 +24,19 @@ This is an **Glace APM**, Here's breakdown of it's **features** ✨ :
 
 What about **customization** 🎨 ?
 
-1) **Default Themes** - Light and Dark modes, are built into the program for comfortable viewing.
+1) **Default Modes** - Light and Dark modes, are built into the program for comfortable viewing.
 
-![4](https://github.com/user-attachments/assets/c090d8fa-fe7a-49a3-ad45-b5bcdc74efca)
+<img width="1920" height="1080" alt="1232" src="https://github.com/user-attachments/assets/70bd46e9-7bd4-46c6-9033-a67919641922" />
 
 2) **Transparency Mode [Unavailable on Linux]** - Enable a semi-transparent window mode.
 
-![5](https://github.com/user-attachments/assets/36109785-61b9-4206-8855-67955a8624a0)
-*Image for representational purposes only. Actual transparency may vary.
+<img width="1920" height="1080" alt="efsa" src="https://github.com/user-attachments/assets/8446225e-9ebc-41ab-b256-0a6d94645733" />
+
+3) **Built-in Themes** - Make your APM colorful using the built-in themes.
+
+<img width="1920" height="1080" alt="Untitled design (1)" src="https://github.com/user-attachments/assets/b758c71c-c47f-4dc6-a056-1c3da667265b" />
+
+**Disclaimer**: All images displayed are for representational purposes only. Actual UI may vary depending on the OS & version.
 
 ## Credits & Acknowledgements 🎉
 
