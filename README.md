@@ -9,7 +9,7 @@
 
 <img width="1920" height="1080" alt="111e" src="https://github.com/user-attachments/assets/afa70799-4a10-4e8e-8535-ebe0d905648c" />
 
-This is an **Glace APM**, Here's breakdown of it's **features** ✨ : 
+This is **Glace APM**, Here's breakdown of it's **features** ✨ : 
 
 1) **Password Generation** - It generates strong passwords with complex algorithms.
 
@@ -21,6 +21,8 @@ This is an **Glace APM**, Here's breakdown of it's **features** ✨ :
 
 5) **Master Password** - Set one single password for all your passwords.
 
+Security :
+- Your Master Password is used to generate an encryption key using PBKDF2-HMAC-SHA256 with 600,000 iterations to securely encrypt and decrypt your credentials. Meaning, your credentials can not be decrypted without your Master Password. This meets the OWASP 2023 security recommendations.
 
 What about **customization** 🎨 ?
 
