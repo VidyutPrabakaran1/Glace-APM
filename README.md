@@ -3,13 +3,13 @@
 <img width="1920" height="1080" alt="apm_splash" src="https://github.com/user-attachments/assets/ed4e6a13-9d58-4afd-8e29-e1068ffde541" />
 
 
-# AI Password Manager 🗝️  -  [Website](https://AI-Password-Manager.github.io/)
+# Glace APM 🗝️  -  [Website](https://AI-Password-Manager.github.io/)
 
 ## Status 🪄: Revamp coming soon... AI Password Manager will be rebranded to Glace APM.
 
 ![1](https://github.com/user-attachments/assets/aa530b07-7476-45a1-b99c-8b6c74313483)
 
-This is an **AI Password Manager**, Here's breakdown of it's **features** ✨ : 
+This is an **Glace APM**, Here's breakdown of it's **features** ✨ : 
 
 1) **Password Generation** - It generates strong passwords with complex algorithms.
 
