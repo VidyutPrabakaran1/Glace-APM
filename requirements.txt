@@ -1,0 +1,6 @@
+customtkinter
+zxcvbn
+beautifulsoup4
+cryptography
+bcrypt
+requests
