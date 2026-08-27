@@ -11,31 +11,16 @@
 
 This is an **AI Password Manager**, Here's breakdown of it's **features** ✨ : 
 
-1) **Password Generation** - It generates strong passwords with the help of AI.
+1) **Password Generation** - It generates strong passwords with complex algorithms.
 
 2) **Password Strength Checker** - Estimates the strength of your password, so that you can create stronger passwords, uses a constantly learning AI to be up-to-date with today's password standards.
 
-3) **Username Generator** - Lets you generate usernames for various accounts that've never been seen before, with the help of AI.
+3) **Username Generator** - Lets you generate usernames for various accounts.
 
-4) **Common Passwords Checker** - Lets you check if a password is commonly used on the internet.
+4) **Common Passwords Check** - Lets you check if a password is commonly used on the internet.
 
 5) **Master Password** - Set one single password for all your passwords.
 
-6) and...
-
-**APM** Accounts 🧾:
-
-![2](https://github.com/user-attachments/assets/2f220999-e7b4-4239-8d10-942d0839a67c)
-
-Introducing APM Accounts, create your own account for your AI Password Manager securely with encryption & 2 Step Verification and get -
-
-![3](https://github.com/user-attachments/assets/3949efb3-e2be-4956-9596-d076bb8478e0)
-
-Backup Feature :
-Safely backup your credentials to your APM Account.
-
-Restore Feature :
-Backed up? Had to reinstall APM? or Got a new computer? Login to your APM Account and click restore to get all your credentials back on your new install.
 
 What about **customization** 🎨 ?
 
