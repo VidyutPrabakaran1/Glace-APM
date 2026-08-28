@@ -5,7 +5,7 @@
 
 # Glace APM 🗝️  -  [Website](https://AI-Password-Manager.github.io/)
 
-## Status 🪄: v2.4 coming soon...
+## Status 🪄: v2.4 Linux version released, Windows version releasing soon...
 
 <img width="1920" height="1080" alt="111e" src="https://github.com/user-attachments/assets/afa70799-4a10-4e8e-8535-ebe0d905648c" />
 
