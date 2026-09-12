@@ -3,7 +3,7 @@
 <img width="1920" height="1080" alt="apm_splash" src="https://github.com/user-attachments/assets/ed4e6a13-9d58-4afd-8e29-e1068ffde541" />
 
 
-# Glace APM 🗝️  -  [Website](https://AI-Password-Manager.github.io/)
+# Glace APM 🗝️  -  [Website](https://glace-apm.github.io/)
 
 ## Status 🪄: v2.4 Linux version released, Windows version releasing soon...
 
