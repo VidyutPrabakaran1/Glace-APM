@@ -44,3 +44,6 @@ What about **customization** 🎨 ?
 
  - Feature Suggestions - @ZappedZaid ([@ZappedZaid5](https://www.youtube.com/@ZappedZaid5) - YouTube / [@Zapped-Zaid5](https://github.com/Zapped-Zaid5) - GitHub)
  - Bug reports & Suggestions - AnonymousYA (Identity Hidden)
+
+## 
+[Privacy Policy](https://github.com/VidyutPrabakaran1/Glace-APM/blob/main/PRIVACY.md) | [Terms and Conditions](https://github.com/VidyutPrabakaran1/Glace-APM/blob/main/TERMS.md)
