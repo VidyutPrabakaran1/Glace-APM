@@ -13,7 +13,7 @@ This is **Glace APM**, Here's breakdown of it's **features** ✨ :
 
 1) **Password Generation** - It generates strong passwords with complex algorithms.
 
-2) **Password Strength Checker** - Estimates the strength of your password, so that you can create stronger passwords, uses a constantly learning AI to be up-to-date with today's password standards.
+2) **Password Strength Checker** - Estimates the strength of your password, so that you can create stronger passwords. (Powered by zxcvbn by Dropbox)
 
 3) **Username Generator** - Lets you generate usernames for various accounts.
 
